@@ -5,6 +5,16 @@
 # Activity 1
 <img width="1464" alt="Screen Shot 2021-10-17 at 17 38 47" src="https://user-images.githubusercontent.com/48742114/137645901-9a6b6ad4-e3b8-4ef6-9e37-d61255f3f237.png">
 
+# Activities 2-5
+<img width="1664" alt="Screen Shot 2021-10-17 at 20 13 04" src="https://user-images.githubusercontent.com/48742114/137650487-25c912ef-f9d3-4bca-a5dd-6f8a86950b9f.png">
+
+<img width="1648" alt="Screen Shot 2021-10-17 at 20 18 52" src="https://user-images.githubusercontent.com/48742114/137650489-e3c44180-4863-4a20-af20-6d5e43fe02ab.png">
+
+<img width="1664" alt="Screen Shot 2021-10-17 at 20 18 32" src="https://user-images.githubusercontent.com/48742114/137650492-57a9dc00-731a-4ad0-89ca-3bc1514cf33a.png">
+
+# Activity 6
+The new styled UI uses borders which clearly separates the results and makes it easier for the user to view them. The additional "Search Results" section also separates the results from the search form which clearly represents the results data. The clear separation between the columns also makes the page more easily readible.
+
 # CARTE Education Pathways
 
 ## Description
